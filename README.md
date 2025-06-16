@@ -1,40 +1,27 @@
-<h1 align="center">Victor Vilella</h1>
-<p align="center"><i>Internal Platforms • AI DevX • Product Engineering</i></p>
+<details>
+<summary>🇧🇷 Sobre mim</summary>
+
+Sou executivo de tecnologia e programador de nascença. Trabalho com engenharia de plataforma, IA aplicada e produtos para desenvolvedores. Crio soluções com propósito, clareza e código de verdade.
+
+</details>
+
+<details>
+<summary>🇺🇸 About me</summary>
+
+I'm a tech executive and lifelong programmer. I work on platform engineering, applied AI, and developer-centric products. I build things with purpose, clarity, and real code.
+
+</details>
 
 ---
 
-## 🇧🇷 Sobre mim (PT-BR)
+### 🔍 Projetos em destaque
 
-Sou executivo técnico com foco em **plataformas de engenharia**, **IA aplicada ao ciclo de desenvolvimento** e **engenharia de produto com autonomia**.
-
-Trabalho com Developer Experience, métricas DORA, automação em nuvem e agentes LLM. Gosto de criar repositórios opinativos, práticos e bem documentados.
-
-### 📌 Projetos em destaque
-
-- [`llm-agent-lab`](https://github.com/vvilella/llm-agent-lab) – agentes com LangChain, ferramentas, memória e RAG.
-- [`terraform-aws-template`](#) – infraestrutura modular opinativa com Terraform.
-- [`dora-metrics-lab`](#) – laboratório de métricas DORA com dashboards, coleta e análise crítica.
+- [llm-agent-lab](https://github.com/vvilella/llm-agent-lab) – agentes LLM com LangChain e exemplos reais.
+- [stackspot-ai](https://github.com/stack-spot/stackspot-ai) – IA para devs, com foco em produtividade e governança.
 
 ---
 
-## 🇺🇸 About Me (EN)
+### 📫 Contato
 
-I'm a technical executive focused on **internal developer platforms**, **AI in software delivery**, and **autonomous product engineering**.
-
-My work spans Developer Experience, DORA metrics, cloud automation, and LLM-based agents. I enjoy building hands-on, opinionated and well-documented codebases.
-
-### 📌 Featured Projects
-
-- [`llm-agent-lab`](https://github.com/vvilella/llm-agent-lab) – LangChain agents with tools, memory and RAG.
-- [`terraform-aws-template`](#) – opinionated modular infra with Terraform.
-- [`dora-metrics-lab`](#) – DORA metrics lab: dashboards, tracking, and critical analysis.
-
----
-
-## 🌐 Links
-
-[LinkedIn](https://www.linkedin.com/in/victor...) • [StackSpot](https://stackspot.com/) • [Blog](#) *(em breve)*
-
----
-
-<sub>⚙️ Profile README • Atualizado em 2025</sub>
+- [LinkedIn](https://linkedin.com/in/victornardi)  
+- victor [dot] vilella [at] gmail [dot] com
