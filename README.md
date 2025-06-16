@@ -23,5 +23,6 @@ I'm a tech executive and lifelong programmer. I work on platform engineering, ap
 
 ### 📫 Contato
 
-- [LinkedIn]([https://linkedin.com/in/victornardi](https://www.linkedin.com/in/vvilella/))  
-- v.vilella@gmail.com
+- [LinkedIn](https://linkedin.com/in/vvilella)
+- Email: `v.vilella [at] gmail.com`
+- GitHub: [@vvilella](https://github.com/vvilella)
